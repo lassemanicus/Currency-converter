@@ -1,0 +1,14 @@
+/Users/lassemanicushansen/Documents/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/lassemanicushansen/Documents/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/lassemanicushansen/Documents/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/lassemanicushansen/Documents/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/lassemanicushansen/Documents/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/lassemanicushansen/Documents/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
